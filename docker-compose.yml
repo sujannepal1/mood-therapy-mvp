@@ -1,0 +1,42 @@
+# Single command to start the full stack:
+#   docker compose up --build
+#
+# Services:
+#   backend-api  → FastAPI on port 8000  (React calls this)
+#   frontend     → React + Vite on port 5173
+#
+# The CLI pipeline (make run) is intentionally NOT in here —
+# it's interactive and needs a real terminal, not a container.
+
+services:
+  backend-api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      # Models and data live outside the container so retraining persists
+      - ./backend/data:/app/data
+      - ./backend/models:/app/models
+    env_file:
+      - .env
+    healthcheck:
+      test: [ "CMD", "python3", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')" ]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 120s
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    depends_on:
+      backend-api:
+        condition: service_healthy
+    environment:
+      # Vite needs this at build-time in Docker — points to the API container
+      - VITE_API_URL=http://localhost:8000

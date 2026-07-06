@@ -1,0 +1,71 @@
+track_id,track_name,artists,emotion,valence,energy,tempo,mode,loudness,acousticness,danceability
+5UZPtt4NnFBcDTLqX8ZQ7x,Sparsha Sangeet,Purna Rai,Happy,0.692,1.0,129.2,1,-17.68,0.785,0.957
+3ONsHYV52zhSWHeovF4ClF,Kehi Mitho Baat Gara,Narayan Gopal,Happy,0.716,1.0,143.6,1,-17.25,0.882,1.0
+4kPJVUswx8DjWphZASeZUR,Yati Chokho Yati,"Gopal Yonjan, Narayan Gopal",Happy,0.594,0.887,103.4,1,-19.29,0.915,0.983
+1gQSetfSMY46oYwpEryVeV,Timi Hau,Nabin K Bhattarai,Happy,0.246,1.0,95.7,0,-15.37,0.789,0.998
+36kyphj9MMr5TuhvO3dbbJ,Raat Bityo,Nabin K Bhattarai,Happy,0.659,1.0,117.5,1,-16.82,0.689,0.95
+4ZRPCQeDet2QH5KuG2K2uD,Guras Ko Fed Muni,Sabin Rai,Happy,0.283,0.817,103.4,0,-20.35,0.662,0.994
+6NBnnfEYJnVF8O6hTBtJtP,"Chepte Chepte Perungo (From ""Happy Days"")","Rajan Raj Shiwakoti, Anju Panta",Happy,0.653,1.0,112.3,1,-11.21,0.725,0.979
+2dH7oXOKfjP0WGKXti8sbJ,"Takan Tukun (From ""Kamaley Ko Bihey"")","Rajan Raj Shiwakoti, Mandabi Tripathi",Happy,0.675,1.0,123.0,1,-11.15,0.802,0.985
+4ni271t6Qv9St8n1Oxl5Ir,Surke Thaili,"Rajan Raj Siwakoti, Anju Panta, Raju Bishowkarma",Happy,0.588,1.0,89.1,1,-12.25,0.787,1.0
+0Nw0SuNavRZICRBlDP22uq,Aatma Ma,"Kamal Khatri, Babita Manandhar",Happy,0.84,1.0,172.3,1,-14.45,0.741,1.0
+4zuB67xVloWed5orWIPatV,Sim Sime Panima,Rekha Shah,Happy,0.627,1.0,99.4,1,-10.87,0.782,1.0
+79GohGFwMgoQrvDXGHi42x,Sapana Ko Mayalu,The Elements,Happy,0.607,1.0,103.4,1,-16.15,0.866,0.86
+3HqsyASz8AmUqqRzZBU1af,Sadhana,John Rai,Happy,0.502,1.0,71.8,1,-16.19,0.952,0.676
+2a1xZ9O13C0D8dhhi59EMM,Sparsha Sangeet - Raw,Purna Rai,Happy,0.692,1.0,129.2,1,-17.68,0.785,0.957
+0HeT0clktMOdi0k7sjafYC,Baiguni,Kehar Sing Limbu,Sad,0.183,1.0,92.3,0,-14.46,0.626,1.0
+0oQrPqXXng4qWpZlrEiZ5e,Badal Sari,"Swar, John Rai",Sad,0.642,1.0,112.3,1,-16.73,0.856,0.886
+5NQB1edfSkseL6nOo3u5yn,Ma Mare Pani,"Swar, Swapnil Sharma, Rohit Shakya",Sad,0.649,0.947,117.5,1,-18.83,0.867,0.961
+2V82Ac3NzXJ3YLp7hi0KfN,Mero Prem,AXIX,Sad,0.6,1.0,92.3,1,-15.65,0.813,1.0
+1Qp3fvfEKDUZulBmmGWlQ8,Mero Aanshu,The Edge Band,Sad,0.669,1.0,117.5,1,-13.85,0.88,0.9
+3zMAJROfIQf3CVyLNPKGnX,Jun Phool Maile Lofi,Narayan Gopal,Sad,0.315,1.0,129.2,0,-17.19,0.901,1.0
+6qVBES2qRZN5UWVPkvJGmo,"Samhalinchha Kahile Mann (From ""Samhalinchha Kahile Mann"")","Sugam Pokharel, James Pradhan",Sad,0.845,1.0,152.0,1,-14.47,0.808,0.873
+0UdDePn6Q2MSXIduxxStDr,Muglan,Sanjeev Singh,Sad,0.382,1.0,161.5,0,-14.57,0.881,1.0
+4FMitblP4Vi0mikGJJ9tHJ,Charile Ta Chhadera,"Alok Shree, Ram Krishna Dhakal",Sad,0.593,0.558,86.1,1,-23.3,0.776,0.915
+5lUXIGScz0k0IAaIRHeVe8,Nabirse Timilai,Jagadis Samal,Sad,0.767,1.0,136.0,1,-18.29,0.815,0.952
+7KRAcIr6Fe3H5OqFLnqSYy,Chitthi Timilai Lekhu,Shambhu Rai,Sad,0.528,1.0,69.8,1,-17.14,0.816,1.0
+2Xetlxx9FH3dwYJ9sr4CMt,Timro Mood,"DJ Bishow, Chirag Khadka, YABI The G.O.A.T",Angry,0.713,1.0,136.0,1,-18.01,0.769,0.869
+25Fs9Ny9uaX6cK0TMr11vT,Paribhasa,Purna Rai,Angry,0.514,1.0,69.8,1,-15.23,0.89,0.864
+3tWpRAdJNfvlYfGORu9EO4,Sapana,SACAR,Angry,0.45,1.0,184.6,0,-13.53,0.468,0.852
+3moenHQNJ2ILnSwYtkhpsK,Kathaa,VTEN,Angry,0.579,0.995,89.1,1,-18.63,0.57,0.932
+4haeL2OJxi5g2gACRfU9UL,Sakdina,Dong,Angry,0.602,1.0,99.4,1,-13.06,0.92,0.898
+5el2Ukus8oVIz60WtIQZ7i,Galli Sadak,VTEN,Angry,0.122,0.916,69.8,0,-18.86,0.73,0.901
+3WM1byuDzAzP8Jd8WjgXG4,Yestai Ta Ho Ni Bro,VTEN,Angry,0.645,1.0,112.3,1,-14.24,0.57,0.911
+7ptkXqAvofXLjtqCvaHso1,Juneli Raatma,Krizn,Angry,0.559,0.915,89.1,1,-19.15,0.595,1.0
+6eZtWpDmkYesehkeoCjWxl,Samadhi,Chirag Khadka,Angry,0.727,1.0,136.0,1,-18.16,0.707,0.892
+0Kv4Kat5WIdjrj4uXiSYK2,La Hai,"Bibash Jk, MC Blacksta",Angry,0.632,0.974,103.4,1,-18.59,0.673,0.905
+5Dbnm9oVWsP4iXQgDLZktD,BAKWAS,Jamesy,Angry,0.201,1.0,99.4,0,-16.82,0.289,0.746
+6UxMAM3syD68NFY2NowHyu,K Garney,"Bizen, Yabesh Thapa",Angry,0.659,0.944,123.0,1,-18.9,0.679,0.935
+4R1qVY47RH97zjKIBQRNnq,Nihita,John Rai,Fear,0.676,1.0,129.2,1,-13.93,0.891,0.927
+0HfwRbIEnVPmkCdqkf7X50,Farkanna Hola,John Rai,Fear,0.604,0.6,99.4,1,-22.73,0.885,0.759
+16KfY78gsKEcUYkyOsoRgf,Ujeli,Sajjan Raj Vaidya,Fear,0.727,1.0,152.0,1,-14.53,0.891,0.95
+08HiOcH8mxRL2w91HgUnyM,Vanana Matra,John Rai,Fear,0.598,0.436,103.4,1,-25.62,0.862,0.691
+2J4lDs8cqRjOLIIHwufEbL,Basanta,Jptrockerz,Fear,0.559,1.0,89.1,1,-15.48,0.931,0.79
+4bMAWEIsVs3JX1m8FjQyaB,Jiunu Nai Hola,Tribal Rain,Fear,0.583,1.0,103.4,1,-14.87,0.903,0.846
+2ZPpLGsk6V8CkvOO5oYIjR,Khaseka Tara,Albatross,Fear,0.399,1.0,152.0,0,-17.45,0.741,0.715
+0ucqJr2v8V7yGqzL04G75x,Hawa Jastai,"John Rai, Changa Productions",Fear,0.7,1.0,136.0,1,-17.68,0.908,0.872
+24w2kgWQxQEaSygwH4L4TN,K Garu,John Rai,Fear,0.701,0.467,136.0,1,-25.07,0.687,0.889
+1NXIyxSzdNwipw1bPjVcrD,Prashna (Raw),John Rai,Fear,0.16,1.0,89.1,0,-15.38,0.929,0.803
+4iHcmWi4kGGNCEk44ZIXIc,Sasto Mutu,Sajjan Raj Vaidya,Disgust,0.535,1.0,78.3,1,-15.07,0.872,0.97
+49EbGl3cUQ8su57NDArCMo,Maya,Ashutosh KC,Disgust,0.789,1.0,161.5,1,-14.01,0.879,0.952
+5DRxbKcBMgMT4nR8eMBjgR,Risaune Bhaye,Sushant KC,Disgust,0.601,0.92,99.4,1,-19.13,0.79,0.954
+3gEXozdAKhOArKGMfW0m5W,Muskurayera,Sushant KC,Disgust,0.755,1.0,161.5,1,-14.72,0.799,0.853
+2V6w4fLyAwcldDry5XofEh,Yo Sahar,Prajina,Disgust,0.637,1.0,117.5,1,-16.45,0.786,0.924
+0rxr0dWWoUU4DssfEqDCSx,K Huncha Bhanera,"DJ Bishow, Yabesh Thapa",Disgust,0.779,1.0,161.5,1,-16.96,0.574,0.903
+7e50PJRncstXrGuZw3VesW,Kalo/Seto,Purna Rai,Disgust,0.493,1.0,60.1,1,-14.86,0.863,0.889
+5PtkQwkkPQTxkSMQUxrE5z,Timrai Tira,Apurva Tamang,Disgust,0.629,1.0,112.3,1,-16.77,0.473,0.89
+1S4tH13tk4485baVqv03xX,BIRAM,Purna Rai,Surprise,0.704,1.0,136.0,1,-17.85,0.844,0.8
+2dzG0Sbt86KT99cbcjfF1g,Dhurwa Tara,Purna Rai,Surprise,0.659,1.0,129.2,1,-13.57,0.907,0.687
+3Kkw8Jye8aiJ25RW0zxyYH,Dhun,Rockheads,Surprise,0.507,1.0,69.8,1,-17.34,0.845,0.885
+0Ld5Co6R4wap3qriDeKBSq,Birsiney Hau Ki,The Elements,Surprise,0.732,0.889,143.6,1,-19.57,0.803,0.9
+12b3bKEbdjtL1Ga0n3ybzK,Phutki Jaaney Jovan,Sajjan Raj Vaidya,Surprise,0.746,1.0,152.0,1,-14.87,0.905,0.974
+2ek8eVDHsdmzPHIhyVNJJe,Parkhaai,Sajjan Raj Vaidya,Surprise,0.479,1.0,60.1,1,-18.09,0.914,0.919
+4tQU3h1fKbxPofhHiasvzw,Kuraakaani,Sajjan Raj Vaidya,Surprise,0.811,1.0,184.6,1,-17.51,0.916,0.834
+6oHC4vOP0iVF9L6HnNX5Ga,Timi Ra Ma,Pariwartan,Surprise,0.702,0.782,129.2,1,-20.65,0.735,0.862
+3IMOXdz0Vvk1CdB6s1V73R,Manaka kura,Purna Rai,Surprise,0.609,1.0,103.4,1,-15.33,0.796,0.9
+0m4MyBuZHmd2TThOzzA5ir,Suna,Naren Limbu,Surprise,0.773,1.0,152.0,1,-16.18,0.707,0.943
+3J9EadiN7Hf08ZDYnJ8v20,Insta Ko Photo,Kali Prasad Baskota,Surprise,0.589,1.0,95.7,1,-17.94,0.853,0.938
+1Xs32QUMAj0eZFjwXIfV2Z,Adha Raat Ma,Chintu Rimal,Surprise,0.75,1.0,143.6,1,-14.41,0.548,1.0
+0lU5O0fJPbPna1FjoCjJKi,Pidit - Love Story Part 2,Neetesh Jung Kunwar,Surprise,0.488,1.0,49.7,1,-16.11,0.479,0.993
+1P7lj5qBTnPTGZxvbsTAYF,K Saro Ramri Bhako,Swoopna Suman,Surprise,0.65,0.894,123.0,1,-19.38,0.872,0.814
+1X6I3aQr2HKnyML3raT5hX,Aparichit Bhawana,Oasis Thapa,Surprise,0.685,0.265,129.2,1,-29.77,0.913,0.854

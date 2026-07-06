@@ -1,0 +1,304 @@
+track_id,track_name,artists,emotion,valence,energy,tempo,mode,loudness,acousticness,danceability
+feat_0014,Aaudai Jadai (Timro Nyano) - The Uglyz,,Angry,0.155,0.848,69.8,0,-17.91,0.742,0.2
+feat_0015,Abhiman - Albatross (Barahsinghe Acoustic Sessions),,Angry,0.211,0.902,99.4,0,-17.38,0.688,0.366
+feat_0019,Afnai Sansar Ma (FULL AUDIO) ｜ ALBATROSS,,Angry,0.344,1.0,129.2,0,-14.05,0.467,0.215
+feat_0021,Akashaima Chil Udyo Live Cover - Jerusha & Shreya Rai,,Angry,0.389,0.672,161.5,0,-19.93,0.696,0.237
+feat_0024,Alex Warren - PASSENGER (Official Video),,Angry,0.339,1.0,136.0,0,-10.58,0.428,0.177
+feat_0027,An Tim - Byapari (prod. @vibyn ) ｜ Official Video,,Angry,0.251,0.843,89.1,0,-17.96,0.363,0.303
+feat_0032,Asha Nirasha - Albatross (Barahsinghe Acoustic Sessions),,Angry,0.318,0.982,129.2,0,-16.64,0.577,0.294
+feat_0045,"BAIGUNI - Official Video ｜Kehar Sing Limbu｜ Ft. Rekha limbu , Uttam Rai , Prasan Rai & Prem Subba",,Angry,0.211,1.0,92.3,0,-12.57,0.458,0.255
+feat_0049,BISHESH - 21 FREEVERSE ｜ OFFICIAL MUSIC VIDEO ｜ 2026,,Angry,0.258,0.753,83.4,0,-18.94,0.344,0.36
+feat_0060,Bhagyamaani - The Hulaki ( भाग्यमानी ) Ft ： @manish_gandharva,,Angry,0.068,0.872,64.6,0,-17.67,0.791,0.632
+feat_0065,Bhool ｜ ALBATROSS,,Angry,0.373,1.0,143.6,0,-13.65,0.65,0.208
+feat_0090,CHUMBAK ｜ SABAI SAKYO (LYRIC VIDEO),,Angry,0.197,1.0,86.1,0,-12.16,0.582,0.32
+feat_0099,Chhewang Lama - Bhagyamaani 「Official MV」Prod by B2,,Angry,0.228,0.964,95.7,0,-16.8,0.629,0.361
+feat_0104,Circus Police - Bharshammo (Official Lyric Video),,Angry,0.384,1.0,152.0,0,-14.81,0.529,0.191
+feat_0110,"DJ Bishow - Aattinchey ft. Yabesh Thapa, VEK & Bizen (Official Music Video)",,Angry,0.25,1.0,99.4,0,-16.3,0.656,0.262
+feat_0113,Dadaima Mela Lagecha ｜ The Sky Band ｜ Durgakazi Shakya ｜ Nepali Iconic Song ｜ Music Nepal Official,,Angry,0.333,1.0,107.7,0,-15.24,0.613,0.178
+feat_0129,Euta Chhithi,,Angry,0.291,1.0,112.3,0,-15.9,0.565,0.225
+feat_0133,Furfuri - Kuma Sagar,,Angry,0.354,1.0,152.0,0,-10.38,0.778,0.216
+feat_0136,Gari Khana Deu II ｜ ALBATROSS,,Angry,0.231,1.0,89.1,0,-12.59,0.524,0.79
+feat_0154,Hnam Ropuite U,,Angry,0.234,1.0,89.1,0,-15.23,0.505,0.196
+feat_0158,Hugget som stucket,,Angry,0.257,1.0,103.4,0,-13.44,0.557,0.286
+feat_0159,Hujan - Kotak Hati (Cover by gonebloom) Noh Salleh⧸ Noh Hujan,,Angry,0.297,0.781,129.2,0,-18.62,0.904,0.408
+feat_0162,Ibtidaa,,Angry,0.37,0.944,143.6,0,-16.98,0.406,0.21
+feat_0163,Intro - Ma Ra Malai ｜ ALBATROSS,,Angry,0.254,1.0,103.4,0,-15.75,0.476,0.52
+feat_0168,Jawani Iraqi ｜ Full Video ｜ Yo Yo Honey Singh ｜ Rawme Hooda,,Angry,0.256,1.0,89.1,0,-13.44,0.414,0.235
+feat_0170,Jhhari Ko Raat - Albatross (Barahsinghe Acoustic Sessions),,Angry,0.236,1.0,103.4,0,-16.12,0.674,0.604
+feat_0172,John Chamling - Samaya Ley,,Angry,0.311,0.957,136.0,0,-16.86,0.773,0.321
+feat_0173,John Michael Howell - Story Of A Warrior [OFFICIAL LYRIC VIDEO],,Angry,0.281,1.0,107.7,0,-14.25,0.745,0.294
+feat_0174,Joji - Blah Blah,,Angry,0.341,1.0,136.0,0,-12.19,0.642,0.227
+feat_0181,KATI BASCHAU PARDESAMAI - TRISHNA GURUNG,,Angry,0.248,1.0,107.7,0,-12.66,0.584,0.208
+feat_0183,KUSH - Harayeko Graha (Official Video),,Angry,0.225,1.0,95.7,0,-13.25,0.563,0.245
+feat_0198,Khaseka Tara - Albatross (Barahsinghe Acoustic Sessions),,Angry,0.24,0.959,99.4,0,-16.84,0.607,0.591
+feat_0200,Khola Sangai ｜ Official Music Video ｜ Pahenlo Batti Muni ｜,,Angry,0.249,1.0,112.3,0,-13.47,0.56,0.663
+feat_0207,Kumari Janani - Furfuri ll ll Kuma Sagar And The Khwopa (Jam Session),,Angry,0.148,0.674,78.3,0,-19.9,0.615,0.555
+feat_0209,Kyeiwaa,,Angry,0.277,1.0,99.4,0,-13.89,0.462,0.22
+feat_0211,Laijanay Ho Ki - Yankee Yolmo (Official Video),,Angry,0.294,1.0,129.2,0,-14.29,0.791,0.476
+feat_0212,Laijaw Malai (Unmastered),,Angry,0.273,0.849,136.0,0,-17.9,0.815,0.339
+feat_0219,Lunglawm a Kim Theilo,,Angry,0.254,1.0,103.4,0,-14.25,0.614,0.165
+feat_0226,Ma Tira Farki Herana ｜ Karan bhatta ｜ Official lyrical video ｜ Prod. Anup kunwar,,Angry,0.353,1.0,136.0,0,-13.24,0.603,0.381
+feat_0230,Maryo Ni Maryo - Cobweb ｜ Highlander Ghar Ma Sessions,,Angry,0.251,1.0,103.4,0,-13.49,0.461,0.33
+feat_0231,Maryo Ni Maryo Live Ghar Ma Session,,Angry,0.255,1.0,103.4,0,-13.36,0.46,0.322
+feat_0239,Mercedes Benz - Cobweb ｜ Tuborg Open Sessions,,Angry,0.365,1.0,136.0,0,-15.64,0.529,0.238
+feat_0250,NIHITA (निहित),,Angry,0.294,1.0,129.2,0,-12.24,0.738,0.461
+feat_0258,Nepali - Albatross (Barahsinghe Acoustic Sessions),,Angry,0.266,1.0,107.7,0,-15.58,0.429,0.222
+feat_0270,Nepathya - Sa Karnali (स कर्णाली ),,Angry,0.388,0.737,129.2,0,-19.13,0.415,0.337
+feat_0276,New Song 2026 ｜ Dil Ki Gali ｜ Ranveer Singh ｜ Sara Arjun ｜ New Hindi Song 2026 ｜ Romantic Song 2026,,Angry,0.366,1.0,117.5,0,-13.41,0.697,0.173
+feat_0277,Nghak Zel Nang Che,,Angry,0.24,1.0,107.7,0,-15.58,0.759,0.216
+feat_0278,Nischal - Albatross (Barahsinghe Acoustic Sessions),,Angry,0.28,1.0,107.7,0,-16.38,0.596,0.567
+feat_0279,Niyoti (নিয়তি) - Mechanix ｜ Official Music Video,,Angry,0.286,1.0,112.3,0,-15.93,0.484,0.287
+feat_0286,Oasis Thapa - Juni Vari Lai (Official Music Video),,Angry,0.224,1.0,95.7,0,-14.55,0.782,0.253
+feat_0290,Our Next Stop @cjamfest ( NATHM ) 4th April 2026 ｜ Saturday 😎. See You All 🤟🏻🤟🏻#albatrossnepal,,Angry,0.383,1.0,152.0,0,-11.07,0.694,0.226
+feat_0292,Panchi Haru. Jhilkey and The Company.,,Angry,0.343,1.0,136.0,0,-14.34,0.573,0.213
+feat_0296,Parkhidina ｜ CHUMBAK (Official Music Video),,Angry,0.336,1.0,136.0,0,-14.98,0.639,0.166
+feat_0297,Paro - @adityarikhari UNPLG'd,,Angry,0.372,1.0,152.0,0,-15.3,0.72,0.283
+feat_0299,Pink Velvet,,Angry,0.291,1.0,123.0,0,-13.84,0.459,0.194
+feat_0305,Prayas - Yabesh Thapa & Pratik Shakya (Unplugged Sessions Episode 04),,Angry,0.224,0.758,95.7,0,-18.88,0.765,0.454
+feat_0308,Purna Rai & Dajubhaiharu-Paribhasa,,Angry,0.133,1.0,69.8,0,-13.39,0.738,0.943
+feat_0310,Purna Rai - Dhurwa Tara,,Angry,0.27,1.0,129.2,0,-11.81,0.783,0.372
+feat_0316,ROCKHEADS ｜ MAYA KO AAGO ｜ Official Music Video,,Angry,0.399,0.907,161.5,0,-17.33,0.58,0.22
+feat_0320,Raat Bityo ｜ Nabin K Bhattarai - NKB ｜ Lyrical Video,,Angry,0.279,1.0,117.5,0,-14.71,0.528,0.206
+feat_0326,Riangvai,,Angry,0.134,1.0,63.0,0,-16.0,0.701,0.317
+feat_0327,Riti - Arthur Gunn,,Angry,0.196,1.0,103.4,0,-14.55,0.77,0.433
+feat_0329,Rupai Ramro.रुपै राम्रो New Nepali Song 2083. Suman Pariyar.Samikshya Adhikari. Asmita Jureli. Surya,,Angry,0.238,1.0,107.7,0,-12.01,0.649,0.232
+feat_0330,SADHANA ( साधना ),,Angry,0.135,1.0,71.8,0,-14.48,0.848,1.0
+feat_0340,Sagar - Albatross (Barahsinghe Acoustic Sessions),,Angry,0.392,1.0,143.6,0,-16.38,0.594,0.216
+feat_0351,Sajjan Raj Vaidya - Pahaar [Official Release],,Angry,0.243,1.0,95.7,0,-14.34,0.629,0.528
+feat_0378,Song For Wemmbu ｜ DEADLOCK,,Angry,0.255,0.885,92.3,0,-17.54,0.642,0.414
+feat_0381,Suchana Suchana Suchana - Albatross (Barahsinghe Acoustic Sessions),,Angry,0.229,0.977,99.4,0,-16.68,0.612,0.544
+feat_0388,Sushant KC - Gulabi (Official Lyric Video),,Angry,0.236,0.777,112.3,0,-18.67,0.701,0.451
+feat_0392,Sushant KC - Pahuna (Official Music Video),,Angry,0.23,1.0,103.4,0,-12.22,0.596,0.276
+feat_0397,TRIP - DREEZY D (OFFICIAL MUSIC VIDEO ) DIR. PANDA,,Angry,0.331,1.0,136.0,0,-13.07,0.611,0.234
+feat_0399,Tanha Paya Khud Ko – Aarzoo Khaan ｜ Emotional Hindi Sad Song ｜ New Song 2026 ｜ Arijit Singh Vibe,,Angry,0.392,0.773,136.0,0,-18.71,0.706,0.216
+feat_0402,Taral - Nidari (Ko Nimti) [Official Lyric Video],,Angry,0.289,1.0,117.5,0,-13.39,0.71,0.222
+feat_0407,Thank You Malta 🇲🇹 ｜ Babaaaalll Majja Aayoo 🙏,,Angry,0.155,0.991,76.0,0,-16.56,0.521,0.34
+feat_0430,VEK X Ashira Shah - Ghumna Jauna (Prod. by pozod),,Angry,0.248,1.0,103.4,0,-12.96,0.519,0.241
+feat_0436,Waiba Buddha - Galti Ft. @trizapradhan7550 (Official Music Video) Prod. By @NoistTheOne,,Angry,0.221,0.946,86.1,0,-16.96,0.598,0.417
+feat_0438,Wajah,,Angry,0.281,1.0,112.3,0,-14.88,0.603,0.295
+feat_0440,Wangden Sherpa - Jau Na [Raw Acoustic],,Angry,0.182,0.778,99.4,0,-18.66,0.861,0.675
+feat_0441,Wangden Sherpa - Tadha Tadha (ft. Prajina) [Official Video],,Angry,0.29,1.0,129.2,0,-16.43,0.651,0.441
+feat_0442,Wangden Sherpa - Timi Nacha Na [Official Lyric Visualizer] Prod. FRWNY,,Angry,0.228,1.0,103.4,0,-13.29,0.644,0.253
+feat_0443,World Cup 2026 Opening Ceremony Anthem ｜ The Most Spectacular Opening Ceremony Ever,,Angry,0.397,1.0,129.2,0,-16.38,0.522,0.169
+feat_0447,"Yabesh Thapa - Bagirana Deu ft. SNJV, Mallika Gurung (Album Visualizer)",,Angry,0.319,1.0,129.2,0,-14.62,0.492,0.437
+feat_0450,Yabesh Thapa - Birami (Album Visualizer),,Angry,0.291,0.919,117.5,0,-17.21,0.508,0.615
+feat_0457,Yabesh Thapa - Fulbari (Album Visualizer),,Angry,0.314,1.0,129.2,0,-15.08,0.648,0.282
+feat_0461,Yabesh Thapa - Jhari [Official Lyrical Video],,Angry,0.218,0.818,95.7,0,-18.22,0.796,0.503
+feat_0465,Yabesh Thapa - Laakhau Hajarau,,Angry,0.348,0.982,136.0,0,-16.63,0.669,0.271
+feat_0470,Yabesh Thapa - Sahi Ho ft. Bizen ｜ OFFICIAL MUSIC VIDEO,,Angry,0.258,1.0,99.4,0,-15.84,0.577,0.398
+feat_0475,Yabesh Thapa - Untitled (Album Visualizer),,Angry,0.256,1.0,103.4,0,-13.46,0.479,0.395
+feat_0487,AADHA UMER - Jagdish Samal ｜ ＂आधा उमेर ＂ Nepali Hit Classical Song Of All Time,,Angry,0.332,0.84,103.4,0,-17.99,0.61,0.184
+feat_0488,AADHI BATO HINDE PACHHI ＂आधी बाटो हिंडे पछी＂｜ Uday Sotang & Manila Sotang ｜ Nepali Hit ｜ Music Nepal,,Angry,0.284,1.0,103.4,0,-12.77,0.71,0.217
+feat_0489,Aaja Bholi Harek Saajh ＂आज भोलि हरेक साँझ मात्तिन थालेछ＂ ｜ Narayan Gopal ｜ Nepali Song,,Angry,0.319,1.0,136.0,0,-15.84,0.741,0.216
+feat_0492,Aruna Lama ｜ PHOOL LAI SODHE ＂फूललाई सोधेँ＂ ｜ Superhit Nepali Song ｜ Nepali Adhunik Song,,Angry,0.348,0.91,117.5,0,-17.3,0.652,0.181
+feat_0495,Bhimeshwor Ko Mela ＂भीमेश्वरको मेला＂ ｜ Evergreen Nepali Folk Song ｜ Music Nepal,,Angry,0.288,1.0,136.0,0,-16.19,0.647,0.326
+feat_0497,Classical Hits ｜ क्लासिकल हिट्स ｜ Nepali Classic Songs ｜ Music Nepal Official,,Angry,0.254,1.0,117.5,0,-14.94,0.761,0.406
+feat_0498,DESH LE RAGAT MAGE ＂देशले रगत मागे＂ ｜｜ Gopal Yonjan ｜ Nepali Super Hit Songs ｜ Nepali Patriotic Song,,Angry,0.268,1.0,123.0,0,-14.55,0.799,0.312
+feat_0501,Dhunge Bagara＂ढुङे बगर＂ ｜ Lal Bahadur Khati & Tirtha Kumari Thapa ｜ Nepali Superhits Song,,Angry,0.248,1.0,112.3,0,-12.67,0.641,0.261
+feat_0508,Golden Collection Of Narayan Gopal ｜ Mero Pyaro Okhaldhunga ｜ Prem Ko Mala ｜ Yo Samjhine Mann Chha,,Angry,0.293,0.959,123.0,0,-16.84,0.728,0.442
+feat_0510,Hit Mix Movie Songs Audio Jukebox Vol 2 ｜ Mohani Maya Ko Hoki ｜ Naya Naya Sajau Hai Sansar,,Angry,0.197,1.0,86.1,0,-15.65,0.619,0.586
+feat_0529,Narayan Gopal ｜ JUN PHOOL MAILE ＂जुन फूल मैले＂ ｜ Superhit Nepali Song ｜ Nepali Adhunik Song,,Angry,0.356,1.0,136.0,0,-14.37,0.761,0.23
+feat_0530,Narayan Gopal ｜ Ratna Shumsher Thapa ｜ Eh Kancha ｜ Bichod Ko Pida ｜ Swarga Ki Rani,,Angry,0.278,1.0,129.2,0,-15.92,0.701,0.385
+feat_0057,Basa Sundari....,,Fear,0.255,0.506,86.1,0,-22.39,0.527,0.452
+feat_0061,Bhagyamaani - The Hulaki ｜ Official Music Video ｜ भाग्यमानी,,Fear,0.298,0.486,129.2,0,-22.75,0.713,0.237
+feat_0092,Chaar dewar-Samir Shrestha,,Fear,0.076,0.448,64.6,0,-23.46,0.705,0.45
+feat_0177,K Garu ｜ Official Music Video ｜,,Fear,0.316,0.468,136.0,0,-23.07,0.519,0.259
+feat_0208,Kuri Basechu - Samir Shrestha X Sabal Dev Shrestha (Audio ),,Fear,0.113,0.555,56.2,0,-21.59,0.743,0.671
+feat_0254,Naresauna maya - Lisson Khadka [ Raw Version],,Fear,0.328,0.465,152.0,0,-23.12,0.728,0.261
+feat_0273,Nepathya - Taal Ko Pani (Official Live Video),,Fear,0.216,0.593,80.7,0,-21.02,0.416,0.546
+feat_0275,Nepathya ｜ Udayo Relaile ＂उडायो रेलैले＂ ｜ Official Lyrical Video Nepali Song ｜ Music Nepal Official,,Fear,0.431,0.522,143.6,0,-22.12,0.495,0.187
+feat_0414,Timi Ra Ma Lyrics Video｜｜ Dixita Karki,,Fear,0.479,0.511,60.1,1,-22.31,0.823,0.489
+feat_0434,Vanana Matra,,Fear,0.218,0.436,103.4,0,-23.69,0.726,0.355
+feat_0504,Evergreen Nepali Song ｜ Ke Chha Ra Diu ｜ Gulam Ali ｜ के छ र दिउँ ｜ Official Music Nepal,,Fear,0.278,0.526,123.0,0,-22.06,0.769,0.254
+feat_0518,Kehi Mitho Baat Gara ｜ Narayan Gopal ｜ Lyrical Video ｜ Superhit Nepali Song ｜ Music Nepal Official,,Fear,0.335,0.645,136.0,0,-20.29,0.763,0.207
+feat_0558,Tyo Khola Ko Sanglo Pani ｜ Manik Ratna ｜ Ratna Shumsher Thapa ｜ Nepali Song,,Fear,0.154,0.638,89.1,0,-20.38,0.669,0.581
+feat_0002,1974AD - Live ｜ Chyangba & The Bloody Revolution⧸Jati Maya Laye Pani (Encore),,Happy,0.816,1.0,161.5,1,-16.42,0.49,0.232
+feat_0003,5_55 ： Maya (High Sessions),,Happy,0.784,1.0,152.0,1,-11.46,0.609,0.242
+feat_0004,@satishghalan - Mantramugdha (Official Lyrical Video),,Happy,0.682,1.0,129.2,1,-12.2,0.804,0.234
+feat_0006,A Mai Re ll Kuma Sagar ' Hawa Ko Lahar ',,Happy,0.665,0.975,117.5,1,-16.7,0.784,0.491
+feat_0007,A Tlai Em E,,Happy,0.66,1.0,112.3,1,-13.12,0.722,0.232
+feat_0008,AASH - NAI NAI NAI,,Happy,0.685,1.0,117.5,1,-13.36,0.323,0.278
+feat_0010,AXIX - MERO PREM [OFFICIAL VIDEO],,Happy,0.633,1.0,92.3,1,-13.67,0.614,0.678
+feat_0011,AXIX - Muskan (official music video) 2016,,Happy,0.737,1.0,136.0,1,-13.3,0.621,0.215
+feat_0013,Aanganai Bhari,,Happy,0.845,0.876,143.6,1,-17.63,0.596,0.142
+feat_0016,Acoustic #11 (Socheko),,Happy,0.649,1.0,99.4,1,-12.94,0.627,0.774
+feat_0017,Acoustic session ｜ Gari khana deu by @AlbatrossNepalOfficial1998 #nepal #musicnepal #youtube,,Happy,0.746,0.435,152.0,1,-23.71,0.595,0.212
+feat_0018,Adhar ｜ ALBATROSS,,Happy,0.779,1.0,143.6,1,-12.52,0.555,0.199
+feat_0020,Akash Khadka X Samir Shrestha - Timi Bhayera Prod. Kila Music(Official Music Video) ｜ ft. Situsit,,Happy,0.776,1.0,143.6,1,-13.83,0.578,0.192
+feat_0023,Alex Dware - Timi Kaha (In the studio),,Happy,0.764,0.973,143.6,1,-16.72,0.771,0.229
+feat_0028,Ankita Pun - Biyog [Official Audio],,Happy,0.697,1.0,129.2,1,-10.98,0.739,0.164
+feat_0029,Ankita Pun - Maili (Official Music Video),,Happy,0.678,1.0,123.0,1,-15.24,0.778,0.25
+feat_0031,Anuv Jain X Lost Stories - Arz Kiya Hai (Official Video) ｜ Coke Studio Bharat,,Happy,0.623,1.0,99.4,1,-12.97,0.742,0.458
+feat_0035,Ashutosh KC - MAYA (Official Lyrics Video),,Happy,0.814,1.0,161.5,1,-12.11,0.74,0.2
+feat_0036,Atomic bush -Sano Prakas acoustic cover by Adhyaya band (A new chapter),,Happy,0.654,0.626,103.4,1,-20.55,0.465,0.6
+feat_0038,Avantika Kaha Hai 😃 Full Song 😍 ｜,,Happy,0.698,0.983,95.7,1,-16.62,0.493,0.272
+feat_0039,Awaz - Albatross (Barahsinghe Acoustic Sessions),,Happy,0.654,1.0,99.4,1,-15.33,0.447,0.275
+feat_0041,B-8EIGHT - AAKHAKO BATO (OFFICIAL HD),,Happy,0.628,1.0,103.4,1,-12.84,0.581,0.269
+feat_0043,BABYMONSTER - 'SUGAR HONEY ICE TEA' M⧸V,,Happy,0.812,1.0,136.0,1,-12.8,0.458,0.218
+feat_0044,BADAL SARI ｜｜ SWAR X JOHN RAI X Cr7horaa @swapnilsharmasings Dir by：@RohitShakya,,Happy,0.678,1.0,112.3,1,-14.85,0.702,0.334
+feat_0046,BATAS SENJA - Menceritakanmu ( OFFICIAL LIRIK VIDEO,,Happy,0.751,1.0,152.0,1,-12.81,0.713,0.178
+feat_0047,BATASH~ Shashwot Khadka (Prod. by Sanjv) (Official Lyric Video),,Happy,0.647,0.746,103.4,1,-19.03,0.643,0.242
+feat_0048,BHAWANA ｜ Rockheads ｜ Official Music Video,,Happy,0.79,0.989,161.5,1,-16.58,0.703,0.234
+feat_0050,"BISTARAI ｜ SWAR ｜ Swapnil Sharma, Rohit Shakya & Gautam Tandukar",,Happy,0.606,1.0,95.7,1,-12.01,0.737,0.286
+feat_0051,BLUESSS - LA LA LA LA (OFFICIAL LYRICS VIDEO),,Happy,0.75,0.814,136.0,1,-18.26,0.337,0.226
+feat_0052,BOYNEXTDOOR (보이넥스트도어) 'VIRAL' Official MV,,Happy,0.71,1.0,112.3,1,-11.9,0.492,0.329
+feat_0054,Baacha Bhayo - (Our Wedding Song) - Jyotsna & Swoopna,,Happy,0.627,0.79,103.4,1,-18.53,0.719,0.349
+feat_0055,Bachau - Albatross (Barahsinghe Acoustic Sessions),,Happy,0.692,0.983,117.5,1,-16.63,0.613,0.223
+feat_0056,Bagaichama Najau Timi (Cover) ｜ Subodh KC ｜ Sansic Records,,Happy,0.658,0.859,123.0,1,-17.8,0.83,0.537
+feat_0062,Bhawana - Albatross (Barahsinghe Acoustic Sessions),,Happy,0.602,1.0,86.1,1,-15.42,0.525,0.506
+feat_0063,Bhawana - Apurva Tamang (Feat. TWK) ｜ Official Video ｜,,Happy,0.645,1.0,99.4,1,-15.47,0.567,0.636
+feat_0064,Bhetai Hunna Hola,,Happy,0.657,1.0,107.7,1,-12.76,0.647,0.157
+feat_0067,Bikki Gurung - Dar Lagcha Hai (Artist Version),,Happy,0.791,1.0,143.6,1,-13.27,0.576,0.26
+feat_0068,Bikki Gurung - Mari Jau 2 II [ OFFICIAL MV ],,Happy,0.77,1.0,143.6,1,-12.98,0.598,0.222
+feat_0069,Bikki Gurung - Mari Jau [ OFFICIAL MV ],,Happy,0.82,0.996,152.0,1,-16.51,0.584,0.174
+feat_0070,Bikki Gurung - Samjhana ｜｜ NEW NEPALI SONG,,Happy,0.857,1.0,172.3,1,-13.55,0.706,0.112
+feat_0071,Bimbaakash- Najeek [Lyrical Video],,Happy,0.695,0.872,123.0,1,-17.67,0.713,0.264
+feat_0073,Bipul Chettri - Asaar,,Happy,0.622,0.691,107.7,1,-19.69,0.621,0.327
+feat_0074,Bipul Chettri - Bhawana (Official Music Video),,Happy,0.718,1.0,136.0,1,-15.45,0.708,0.218
+feat_0076,Bipul Chettri - Junkeri⧸Fireflies (Album - Maya),,Happy,0.786,0.758,161.5,1,-18.88,0.821,0.242
+feat_0077,Bipul Chettri - Lopchu ko Orali (Official Visualiser),,Happy,0.756,1.0,143.6,1,-12.69,0.548,0.413
+feat_0078,Bipul Chettri - Ram Sailee (Ode to my Father),,Happy,0.703,0.865,136.0,1,-17.74,0.795,0.392
+feat_0079,Bipul Chettri - Syndicate (Album - Maya),,Happy,0.679,1.0,117.5,1,-13.86,0.602,0.231
+feat_0080,Bipul Mahat ｜ Chahana ｜ Official Music Video,,Happy,0.627,1.0,99.4,1,-14.45,0.694,0.245
+feat_0081,Birano - Dibesh Pokharel,,Happy,0.716,0.951,136.0,1,-16.92,0.542,0.353
+feat_0082,Birsiney Hau Ki - The Elements ｜ Tuborg Open Sessions,,Happy,0.759,0.895,143.6,1,-17.44,0.626,0.204
+feat_0084,Bistarai Bistarai - Rohit John Chettri ｜ Nepali Acoustic Classic,,Happy,0.604,1.0,92.3,1,-16.46,0.737,0.252
+feat_0085,Bizen X Yabesh Thapa - K GARNEY II Official Music Video II Maana Mero Aatidai ll,,Happy,0.692,0.948,123.0,1,-16.94,0.567,0.544
+feat_0087,Byahe (Hunyo) - Kyle Raphael (Lyric Video),,Happy,0.601,0.822,92.3,1,-18.18,0.622,0.808
+feat_0089,CHUMBAK ｜ Ahile Bhana (Official Music Video),,Happy,0.637,1.0,95.7,1,-13.71,0.586,0.206
+feat_0091,COD - Euta Pari Basthyo (Lyrics),,Happy,0.684,1.0,107.7,1,-12.03,0.492,0.149
+feat_0093,"Chaina Saram, Chaina Laaja (Pinjada) - Satish Ghalan ｜｜ Lyrics",,Happy,0.674,1.0,136.0,1,-6.66,0.849,0.366
+feat_0094,Chainejo Jindaganima ｜ Movie Song [ऊनको स्वीटर] Sujan Chapagain ｜ Salina B.K ｜ Alex & Parikshya,,Happy,0.69,0.952,117.5,1,-16.91,0.531,0.218
+feat_0095,Chameli Phoola “Champa” ft. Anish Maharjan ll Suren lama Official Video,,Happy,0.715,1.0,112.3,1,-14.52,0.575,0.508
+feat_0096,Chaubandi Choli by 1974AD,,Happy,0.796,1.0,161.5,1,-12.05,0.671,0.169
+feat_0097,Chaubandi Cholo Mukti and Revival live at Sitapaila,,Happy,0.845,1.0,161.5,1,-13.75,0.567,0.233
+feat_0098,Chhekyo Chhekyo ｜ Nepathya ｜ Nepali Iconic Song ｜ Music Nepal Official,,Happy,0.701,1.0,107.7,1,-9.42,0.614,0.218
+feat_0101,Chintya Gabriella - Percaya Aku (Lirik & Akustik oleh Eclat),,Happy,0.726,0.8,136.0,1,-18.42,0.558,0.357
+feat_0102,Chiso chiso chha mausam ｜ Melina Rai Ft. Rekha Limbu & Kanchan Thalang ｜ tiktok popular song,,Happy,0.831,1.0,161.5,1,-15.83,0.652,0.133
+feat_0103,Chungmu Vanlai,,Happy,0.759,1.0,136.0,1,-14.28,0.593,0.148
+feat_0105,Coach Raju ＂Halla Chalechha..＂ ｜ Finale Performance ｜ The Voice of Nepal S3,,Happy,0.819,1.0,152.0,1,-12.6,0.599,0.216
+feat_0106,Cobweb - Hidchu Sadhai (Official Music Video),,Happy,0.677,0.721,103.4,1,-19.31,0.535,0.199
+feat_0108,Cowgirl,,Happy,0.614,1.0,83.4,1,-9.63,0.69,0.143
+feat_0111,DJ Bishow - K Huncha Bhanera ft. Yabesh Thapa (Official Music Video),,Happy,0.806,1.0,161.5,1,-14.93,0.457,0.181
+feat_0112,"DOKO BUNNE (Official Song) ｜ KUMARI Movie ｜ Keher Limbu ｜ Abishek Khadka, Aakriti Rajbhandari",,Happy,0.663,1.0,107.7,1,-15.42,0.617,0.378
+feat_0114,"Danke schön FRANKFURT, 🇩🇪 Babaaaalll 🔥🔥🔥#albatrossnepal",,Happy,0.685,0.989,136.0,1,-16.57,0.693,0.226
+feat_0115,"Danke, Frankfurt 🇩🇪What an unforgettable show.🔥🔥🔥",,Happy,0.629,0.842,107.7,1,-17.97,0.562,0.603
+feat_0117,Daun Jatuh - Sekedar Mengagumi (Official Visualizer),,Happy,0.696,1.0,129.2,1,-14.76,0.777,0.224
+feat_0118,Daun Jatuh - Semoga Masih Ada Waktu (Official Visualizer),,Happy,0.611,1.0,103.4,1,-11.86,0.692,0.538
+feat_0119,"Death Whispered a Lullaby (Live at Shepherd's Bush Empire, London)",,Happy,0.763,1.0,143.6,1,-13.57,0.654,0.282
+feat_0121,Devadhidev Mahadev ｜ Hansraj Raghuwanshi ｜ Bhole Baba Song 2026 ｜ Official Music Video,,Happy,0.649,1.0,99.4,1,-13.88,0.642,0.195
+feat_0122,Din l Anuprastha ll Official Music Video,,Happy,0.75,0.9,136.0,1,-17.39,0.603,0.271
+feat_0123,Diwas Gurung - 'Laijau' (Official Music Video),,Happy,0.623,1.0,103.4,1,-13.87,0.618,0.211
+feat_0124,Dooron Dooron (Official Video) - Paresh Pahuja Feat. Harleen Sethi ｜ Shiv ｜ Meghdeep ｜ Vaibhav,,Happy,0.612,1.0,95.7,1,-16.42,0.698,0.375
+feat_0125,"Dubo Phulyo ｜｜ KABADDI KABADDI KABADDI - Movie Song ｜｜ Dayahang Rai, Upasana Singh, Karma, Wilson",,Happy,0.706,1.0,117.5,1,-13.01,0.508,0.195
+feat_0126,EKDEV LIMBU - Jhim Jhimaune Aankha [Official Music Video],,Happy,0.659,1.0,123.0,1,-15.24,0.73,0.546
+feat_0127,ENTROPY -Mew Suppasit [Official music video],,Happy,0.703,1.0,129.2,1,-15.41,0.687,0.287
+feat_0128,Ekdev Limbu - Fijeko Kesh [Official Music Video],,Happy,0.684,1.0,123.0,1,-15.69,0.691,0.517
+feat_0130,Euta Sapana Chha (सिरसिर हावामा ) - Pushpan Pradhan ｜ Paul Shah ｜ Garima Sharma,,Happy,0.814,1.0,161.5,1,-10.56,0.728,0.161
+feat_0132,Flirty Maya ｜ Official Music Video ｜ Neetesh Jung Kunwar,,Happy,0.616,1.0,89.1,1,-14.84,0.506,0.362
+feat_0134,Gahiro Unplugged (Acoustic Version),,Happy,0.678,1.0,107.7,1,-11.1,0.753,0.678
+feat_0135,Gari Khana Deu I ｜ ALBATROSS,,Happy,0.817,1.0,152.0,1,-11.8,0.471,0.177
+feat_0137,Gun Bhuleu ｜ गुन भुलेउ ｜ Sarika Ghimire ｜ Official Song 2025,,Happy,0.647,1.0,107.7,1,-11.86,0.557,0.147
+feat_0138,Gurasa ko feda muni karaoke Sabin Rai Nepali Song Karaoke,,Happy,0.671,0.532,103.4,1,-21.96,0.446,0.25
+feat_0139,Gurasai Fulyo Banaima ＂गुराँसै फुल्यो वनैमा＂ ｜ 1974 AD ｜ Lyrical Video With Guitar Chords,,Happy,0.725,1.0,129.2,1,-11.51,0.548,0.174
+feat_0141,HAMRO MAYA ｜ THE EDGE BAND ( OFFICIAL MUSIC VIDEO ),,Happy,0.734,1.0,136.0,1,-14.18,0.688,0.197
+feat_0142,Hajar Janma ｜ Rockheads Nepal ｜ Official Music Video,,Happy,0.654,1.0,117.5,1,-15.71,0.691,0.485
+feat_0143,Hajar Juni Samma हजार जुनी सम्म,,Happy,0.798,1.0,136.0,1,-12.13,0.683,0.193
+feat_0144,Hami - Prajina X Regan ( Directed by Sayun Shakya ),,Happy,0.751,1.0,152.0,1,-13.84,0.789,0.26
+feat_0145,Hamro Nepalma,,Happy,0.679,1.0,117.5,1,-12.0,0.524,0.205
+feat_0146,Hari Untuk Kita Berdua,,Happy,0.666,1.0,117.5,1,-12.54,0.824,0.536
+feat_0147,"Hataarindai, Bataasindai (feat. Shyam Nepali)",,Happy,0.724,1.0,136.0,1,-16.17,0.82,0.506
+feat_0149,Hawa Jastai - John Chamling Rai ｜ Official Audio & Lyrics ｜,,Happy,0.728,1.0,136.0,1,-15.9,0.756,0.328
+feat_0150,"Hawa Jastai - John Chamling Rai ｜ Official Music Video ｜ Starring Sujan Zimba, Dixu & Himanshu ｜",,Happy,0.72,0.793,136.0,1,-18.49,0.747,0.317
+feat_0151,Hellskitchen 2.0,,Happy,0.718,1.0,112.3,1,-15.17,0.349,0.525
+feat_0152,"Hey Maya - Badri Sapkota, Gyanu Pariyar, Ramesh Pariyar, Manoj Gurung, Tulsi Gurung - New Song",,Happy,0.796,1.0,152.0,1,-10.26,0.62,0.156
+feat_0000,"#Video ｜ 6 गोली मारव नथुनिया पS ｜ #Khesari Lal Yadav, Srishti Bharti ｜ 6 Goli Marab Nathuniya Pa",,Surprise,0.434,1.0,136.0,0,-10.46,0.552,0.196
+feat_0001,1974AD - Hidda Hiddai (Official Lyrical Video),,Surprise,0.535,1.0,66.3,1,-12.49,0.667,0.355
+feat_0005,A Dam Ngei Ang,,Surprise,0.599,1.0,89.1,1,-15.92,0.54,0.197
+feat_0009,"APARIBHASIT ｜ SWAR ｜ Swapnil Sharma, Rohit Shakya & Gautam Tandukar",,Surprise,0.578,1.0,80.7,1,-14.16,0.725,0.76
+feat_0012,Aandhii - K Hunthyo Hola Hami Sangai Bhayeko Bhaye？ [Official Lyric Video],,Surprise,0.488,0.944,58.7,1,-16.98,0.729,0.719
+feat_0022,Albatross ｜ Manav Nai Danav ｜ Ma Ra Malai ｜ Official Video,,Surprise,0.537,1.0,60.1,1,-13.35,0.519,0.55
+feat_0025,All 9 Solfeggio Frequencies - Full Body Aura Cleanse & Cell Regeneration Therapy 2,,Surprise,0.492,0.623,83.4,1,-20.59,0.876,0.164
+feat_0026,All 9 Solfeggio Frequencies - Full Body Aura Cleanse & Cell Regeneration Therapy,,Surprise,0.492,0.623,83.4,1,-20.59,0.876,0.164
+feat_0030,Antim Maya Lyrical - Naren Limbu,,Surprise,0.592,1.0,80.7,1,-14.09,0.681,0.305
+feat_0033,Ashma (A Confession) - Neetesh J Kunwar,,Surprise,0.489,0.854,60.1,1,-17.85,0.305,0.126
+feat_0034,Ashu barara,,Surprise,0.423,0.795,143.6,0,-18.47,0.77,0.195
+feat_0037,Audrey (Instrumental),,Surprise,0.592,1.0,95.7,1,-14.95,0.849,0.351
+feat_0040,Ayush Gauchan - Maya (Official Music Video),,Surprise,0.556,1.0,83.4,1,-15.54,0.586,0.489
+feat_0042,B-8EIGHT - K Yo Maya Ho [OFFICIAL VIDEO],,Surprise,0.445,1.0,172.3,0,-11.6,0.535,0.111
+feat_0053,BUJHAU MALAI l SUSHANT GHIMIRE l OFFICIAL MUSIC VIDEO (Harayeni Baata),,Surprise,0.581,1.0,86.1,1,-16.15,0.614,0.436
+feat_0059,Beisei Bo Hnu,,Surprise,0.541,1.0,73.8,1,-14.57,0.782,0.277
+feat_0066,Bidesh Jane Mayalu Timilai ｜ Deepak Thapa ｜ Old Nepali Song,,Surprise,0.581,1.0,73.8,1,-13.48,0.682,0.278
+feat_0072,Bipul Chettri - Aashish (Official Video),,Surprise,0.512,1.0,69.8,1,-14.77,0.58,0.416
+feat_0075,Bipul Chettri - Deorali Darah,,Surprise,0.589,1.0,95.7,1,-16.33,0.654,0.327
+feat_0083,"Birtamod, you were unreal Last night 🔥🔥🔥Thank You ｜ Our Next Stop DHARAN",,Surprise,0.597,0.881,107.7,1,-17.58,0.64,0.606
+feat_0086,"Bujhne Lai - Tunna Bell Thapa ( Album - Je Cha, Gara Timi )",,Surprise,0.567,1.0,86.1,1,-11.07,0.794,0.221
+feat_0088,CHINTA TRIBAL RAIN,,Surprise,0.584,1.0,99.4,1,-14.54,0.63,0.389
+feat_0100,China Company (चाइना कम्पनी) ｜ Bro Sis ｜ Nepali Song ｜ Music Nepal Official,,Surprise,0.445,1.0,161.5,0,-14.79,0.483,0.2
+feat_0107,Cobweb - Timro Maya I The 30's Edition I Live,,Surprise,0.57,1.0,83.4,1,-13.52,0.67,0.397
+feat_0109,DHUN ｜ Rockheads ｜ Official Music Video,,Surprise,0.525,1.0,69.8,1,-15.52,0.673,0.64
+feat_0116,Daun Jatuh - Bungkam (Stripped),,Surprise,0.569,0.59,92.3,1,-21.06,0.886,0.459
+feat_0120,Desh Ko Maya Feat. Arthur Gunn - Neetesh Jung Kunwar,,Surprise,0.512,0.976,60.1,1,-16.69,0.593,0.197
+feat_0131,First And Last,,Surprise,0.522,1.0,61.5,1,-13.0,0.75,0.44
+feat_0140,Guzaarishein (Piano Version),,Surprise,0.505,1.0,69.8,1,-13.89,0.826,0.564
+feat_0148,Hataash - Prince Deukadi,,Surprise,0.524,0.912,86.1,1,-17.28,0.82,0.846
+feat_0161,I Tello Chuan,,Surprise,0.528,1.0,68.0,1,-13.19,0.731,0.494
+feat_0171,"Jiunu Nai Hola, Tribal Rain (Freestyle acoustic experimental band, Sikkim)",,Surprise,0.588,1.0,103.4,1,-13.13,0.736,0.257
+feat_0176,Juneli Raatma - Addit Shrestha & W.A.G (Official HD Video),,Surprise,0.589,0.918,89.1,1,-17.22,0.469,0.293
+feat_0180,KARAOKE ｜ Pahilo Junima ｜ Dherai Dherai ｜ 1974 AD with Lyrics,,Surprise,0.553,1.0,69.8,1,-15.74,0.598,0.351
+feat_0191,Karma Band - Hukka Mero with Lyrics,,Surprise,0.432,1.0,161.5,0,-15.66,0.398,0.136
+feat_0192,Kasari Bhanu - Official Lyrical Video - Swoopna Suman - Arbitrary Originals,,Surprise,0.59,1.0,89.1,1,-12.56,0.588,0.236
+feat_0199,Khaseka Tara ｜ ALBATROSS,,Surprise,0.426,1.0,152.0,0,-15.38,0.559,0.244
+feat_0213,Lampate Surati ＂लामपाते सुरती＂ - Nepathya ｜ Nepali Song ｜ Lyrical Video,,Surprise,0.616,0.493,95.7,1,-22.62,0.65,0.266
+feat_0221,MAYA GARNU LA - LYRICAL - JERRY ON TOP - ANMOL KC - JASSITA GURUNG - AANCHAL SHARMA - JOHN RAI,,Surprise,0.588,0.886,92.3,1,-17.53,0.74,0.385
+feat_0223,Ma Sansar Jitne - Sabin Rai & The Elektrix - KRIPA UNPLUGGED SEASON 2,,Surprise,0.578,1.0,73.8,1,-13.25,0.633,0.407
+feat_0224,Ma Sansar Jitne Att (Unpluggedd) Sabin Rai & The Elektrix(Lyrics),,Surprise,0.57,1.0,73.8,1,-12.98,0.634,0.486
+feat_0225,Ma Timro - Official Music Video - Swoopna Suman ｜ Arbitrary Originals,,Surprise,0.54,1.0,73.8,1,-14.15,0.646,0.248
+feat_0228,Makhamali - The Hulaki ｜ Official Music Video,,Surprise,0.584,0.886,89.1,1,-17.53,0.682,0.386
+feat_0255,Narisawna-Official Music Video,,Surprise,0.575,1.0,86.1,1,-11.45,0.758,0.47
+feat_0256,Navjot Ahuja - Khat (Official Audio),,Surprise,0.58,1.0,89.1,1,-15.0,0.632,0.298
+feat_0266,Nepathya - Lampate Surati (लाम्पाते सुरती ) ｜ Live - Nepal Tour 2018,,Surprise,0.585,0.999,71.8,1,-16.48,0.498,0.314
+feat_0269,Nepathya - Resham (रेशम),,Surprise,0.568,0.579,78.3,1,-21.22,0.557,0.308
+feat_0287,"Only 3 days to go!!!We’re hitting the stage this Saturday @cjamfest ｜ April 4th 2026,",,Surprise,0.57,1.0,86.1,1,-11.74,0.667,0.411
+feat_0300,Potty Aa Rahi Song😂Susu Aa Rahi Hai Song Paddu Aa Rahi Song Funny Potty Training Song KianaKidsTV,,Surprise,0.469,0.843,152.0,0,-17.96,0.433,0.162
+feat_0311,Purna Rai - Kalo⧸Seto (official music video),,Surprise,0.518,1.0,60.1,1,-12.93,0.711,0.335
+feat_0315,RAIL LAI MA - TRISHNA GURUNG [OFFICIAL VIDEO],,Surprise,0.561,1.0,71.8,1,-12.75,0.57,0.127
+feat_0317,ROCKHEADS ｜ RANGA ｜,,Surprise,0.579,1.0,95.7,1,-16.01,0.653,0.323
+feat_0319,Raahein - Apurva Tamang ｜ Official MV ｜,,Surprise,0.59,1.0,99.4,1,-13.86,0.759,0.471
+feat_0322,Rachana Dahal - AAGYA ( Official Music Video by @StormcrowFramework ),,Surprise,0.434,0.816,172.3,0,-18.25,0.721,0.162
+feat_0335,SAMJHANCHU - Sabin Rai & The Pharaoh (Lyrics Video),,Surprise,0.557,1.0,78.3,1,-15.52,0.585,0.343
+feat_0337,SAMJHINEY MUTU ｜ THE EDGE BAND ｜ OFFICIAL VIDEO,,Surprise,0.56,1.0,68.0,1,-13.45,0.729,0.214
+feat_0359,Samir Shrestha - Hera na ( Official Lyrical Video ) ｜ Prod. Foeseal,,Surprise,0.598,1.0,95.7,1,-14.01,0.77,0.343
+feat_0362,Samir Shrestha - Thamana Haat ( Official Music Video ) ｜ Prod. Foeseal,,Surprise,0.595,0.836,95.7,1,-18.03,0.697,0.33
+feat_0363,Samir Shrestha X Bardan - Maya ta maya ho ( Improvised ),,Surprise,0.555,1.0,89.1,1,-8.93,0.885,0.524
+feat_0367,Sath Juni - The Dreamcatchers Official ｜ Angu Bhutia ｜,,Surprise,0.619,0.527,92.3,1,-22.04,0.525,0.307
+feat_0376,Si⧸Ma-[Na] - Kaalpanik⧸ Maayaajastai [Official Video],,Surprise,0.407,1.0,161.5,0,-13.6,0.742,0.201
+feat_0377,Soft Rider (Video W Lyrics)- NjK VIBE,,Surprise,0.59,0.784,83.4,1,-18.59,0.407,0.24
+feat_0379,Steve Lacy - the feeling (Official Video),,Surprise,0.587,1.0,86.1,1,-11.81,0.572,0.219
+feat_0387,Sushant KC - Behos,,Surprise,0.597,0.78,95.7,1,-18.64,0.684,0.918
+feat_0396,TIMRO AANKHA - Swoopna Suman (Official MV),,Surprise,0.56,1.0,80.7,1,-13.67,0.678,0.295
+feat_0400,Tanha Reh Jayege – Aarzoo Khaan ｜ Emotional Hindi Sad Song ｜ New Song 2026 ｜ Arijit Singh Vibe,,Surprise,0.416,0.856,143.6,0,-17.83,0.709,0.221
+feat_0412,Timi Nai Hau ｜ Sabin Rai ｜ Official Video,,Surprise,0.542,0.907,68.0,1,-17.33,0.533,0.458
+feat_0426,Ungu - Aku Bukan Pilihan Hatimu (Cover by Tereza),,Surprise,0.588,1.0,86.1,1,-15.03,0.797,1.0
+feat_0432,"Vallah (Official Video) Shahid, Kriti, Rashmika ｜ Pritam, Bayanni, Harrdy S, Amitabh B ｜ Cocktail 2",,Surprise,0.493,1.0,198.8,0,-10.46,0.557,0.164
+feat_0449,Yabesh Thapa - Bhanu Kasari Ma (Album Visualizer),,Surprise,0.593,0.828,99.4,1,-18.11,0.755,0.568
+feat_0459,Yabesh Thapa - Haalkhabar ｜ OFFICIAL MUSIC VIDEO,,Surprise,0.549,0.832,80.7,1,-18.08,0.766,0.769
+feat_0462,Yabesh Thapa - K Hunthyo Hola ｜ Interlude (Album Visualizer),,Surprise,0.47,0.788,69.8,1,-18.54,0.858,0.555
+feat_0463,Yabesh Thapa - Kamana ⧸ कामना,,Surprise,0.589,1.0,95.7,1,-13.59,0.801,0.535
+feat_0467,Yabesh Thapa - Muskuraye ｜ OFFICIAL VISUALIZER,,Surprise,0.582,1.0,89.1,1,-15.64,0.686,0.283
+feat_0468,Yabesh Thapa - Mutu Bhari ft. Sneha (Album Visualizer),,Surprise,0.438,1.0,161.5,0,-13.98,0.571,0.139
+feat_0469,Yabesh Thapa - Saat Samundra ft. Dechen Phinasa (Album Visualizer),,Surprise,0.596,1.0,99.4,1,-15.99,0.718,0.477
+feat_0478,Yabesh Thapa X Zeroo X Easi 12 X Dong - Saacho Kura (ClassX Connects),,Surprise,0.433,1.0,172.3,0,-12.58,0.567,0.199
+feat_0493,Aruna Lama ｜ POHOR SAAL KHUSI ＂पोहोर साल खुशी＂ ｜ Superhit Nepali Song ｜ Music Nepal Official,,Surprise,0.411,1.0,161.5,0,-15.95,0.728,0.248
+feat_0499,Dhalki Dhalki Nahida - P.L Shrestha ｜ Natikaji ｜ Rabindra Shah ｜ Nepali Song,,Surprise,0.6,0.596,89.1,1,-20.98,0.515,0.393
+feat_0512,Jeevanko Harek Modma - Narayan Gopal & Aruna Lama ｜ Gopal Yonjan ｜ Nepali Song,,Surprise,0.41,1.0,198.8,0,-10.99,0.713,0.175
+feat_0527,Namche Bajar ｜ Bijendra Gurung ｜ Superhit Nepali Song,,Surprise,0.587,1.0,78.3,1,-8.17,0.63,0.135
+feat_0537,Raatko Rani Phule Jhai Sajhama ｜ Danny Denzongpa ｜ Shambhujeet Baskota ｜ Nepali Song,,Surprise,0.59,1.0,86.1,1,-15.5,0.687,0.227
+feat_0543,Sabaile Dine Ustai Huncha Maya -Tara Thapa ｜ Nepali Superhit Classic Song,,Surprise,0.44,1.0,172.3,0,-13.58,0.721,0.25
+feat_0549,Sungabha Jasto Jeevan - Taradevi & Meera Rana ｜ Nepali Song,,Surprise,0.571,1.0,86.1,1,-16.23,0.652,0.325
+feat_0555,Tirtha Kumari Thapa ｜ Evergreen & Popular Nepali Folk Songs Juke Box ｜ Ma Ta Khadina Kuwako Pani,,Surprise,0.46,0.867,184.6,0,-17.72,0.615,0.282
+feat_0563,＂उकाली चढ्दा＂ Ukali Chadhda - Ambar Gurung ｜ Nepali Song ｜ Lyrical Video,,Surprise,0.594,1.0,92.3,1,-16.14,0.704,0.247
+feat_0565,＂किन किन तिम्रो तस्बिर​＂ Kina Kina Timro Tasbir - Gulam Ali ｜ MBB Shah ｜ Deepak Jangam ｜ Music Nepal,,Surprise,0.547,0.818,83.4,1,-18.23,0.647,0.287
+feat_0568,＂म प्यार बेचिदिन्छु＂ Ma Pyar Bechidinchu - Asha Bhosle ｜ Nepali Sadabahar Geet,,Surprise,0.428,1.0,161.5,0,-12.59,0.532,0.302
+feat_0569,＂मखमली चोलो＂ Makhamali Cholo - Meera Rana ｜ Gopal Yonjan ｜ Nepali Song,,Surprise,0.588,1.0,83.4,1,-15.01,0.569,0.407
+feat_0584,बिदाई (Bidaai) ｜ SWAR ｜ Official Video,,Surprise,0.582,1.0,86.1,1,-15.66,0.657,0.358

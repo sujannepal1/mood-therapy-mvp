@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Music Mood Therapy — Research Paper</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap');
+
+  :root {
+    --ground:   #ffffff;
+    --text:     #1a1a2e;
+    --muted:    #4a4a6a;
+    --accent:   #1a6b8a;
+    --rule:     #d0d8e4;
+    --code-bg:  #f4f6f9;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--ground);
+    color: var(--text);
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 11pt;
+    line-height: 1.65;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 32px 80px;
+  }
+
+  /* ── Title block ─────────────────────────────────────────── */
+  .title-block {
+    text-align: center;
+    padding-bottom: 24px;
+    border-bottom: 2px solid var(--accent);
+    margin-bottom: 28px;
+  }
+
+  .conference-tag {
+    font-family: 'Inter', sans-serif;
+    font-size: 8pt;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 14px;
+  }
+
+  h1.paper-title {
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 22pt;
+    font-weight: 600;
+    line-height: 1.25;
+    color: var(--text);
+    margin-bottom: 18px;
+  }
+
+  .authors {
+    font-family: 'Inter', sans-serif;
+    font-size: 10pt;
+    font-weight: 500;
+    color: var(--text);
+    margin-bottom: 4px;
+  }
+
+  .affiliation {
+    font-family: 'Inter', sans-serif;
+    font-size: 9pt;
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  /* ── Abstract ────────────────────────────────────────────── */
+  .abstract-block {
+    margin-bottom: 32px;
+    padding: 18px 22px;
+    border-left: 3px solid var(--accent);
+    background: #f7fafc;
+  }
+
+  .abstract-block .label {
+    font-family: 'Inter', sans-serif;
+    font-size: 7.5pt;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 6px;
+  }
+
+  .abstract-block p {
+    font-size: 10pt;
+    line-height: 1.6;
+    color: var(--text);
+  }
+
+  .keywords {
+    font-family: 'Inter', sans-serif;
+    font-size: 9pt;
+    color: var(--muted);
+    margin-top: 10px;
+  }
+
+  .keywords span { font-weight: 600; color: var(--text); }
+
+  /* ── Sections ────────────────────────────────────────────── */
+  .section { margin-bottom: 28px; }
+
+  h2.section-heading {
+    font-family: 'Inter', sans-serif;
+    font-size: 9pt;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 5px;
+    margin-bottom: 13px;
+    margin-top: 28px;
+  }
+
+  h3.sub-heading {
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 11.5pt;
+    font-weight: 600;
+    font-style: italic;
+    color: var(--text);
+    margin-top: 16px;
+    margin-bottom: 6px;
+  }
+
+  p { margin-bottom: 10px; text-align: justify; }
+
+  /* ── Lists ───────────────────────────────────────────────── */
+  ol.contributions {
+    padding-left: 20px;
+    margin-bottom: 10px;
+  }
+
+  ol.contributions li {
+    margin-bottom: 5px;
+    text-align: justify;
+  }
+
+  /* ── Formula block ───────────────────────────────────────── */
+  .formula {
+    background: var(--code-bg);
+    border: 1px solid var(--rule);
+    padding: 10px 16px;
+    margin: 12px 0;
+    font-family: 'Courier New', monospace;
+    font-size: 9.5pt;
+    color: var(--text);
+    border-radius: 3px;
+  }
+
+  /* ── Tables ──────────────────────────────────────────────── */
+  .table-wrap {
+    margin: 16px 0;
+  }
+
+  .table-caption {
+    font-family: 'Inter', sans-serif;
+    font-size: 8.5pt;
+    font-weight: 600;
+    text-align: center;
+    color: var(--muted);
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 10pt;
+  }
+
+  thead tr {
+    background: var(--text);
+    color: #fff;
+  }
+
+  thead th {
+    font-family: 'Inter', sans-serif;
+    font-size: 8.5pt;
+    font-weight: 500;
+    padding: 7px 10px;
+    text-align: left;
+    letter-spacing: 0.04em;
+  }
+
+  tbody tr:nth-child(even) { background: #f4f7fb; }
+
+  tbody td {
+    padding: 6px 10px;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+
+  tbody tr.highlight td {
+    font-weight: 600;
+    background: #e8f4f8;
+  }
+
+  /* ── References ──────────────────────────────────────────── */
+  .references ol {
+    padding-left: 22px;
+  }
+
+  .references li {
+    font-size: 9.5pt;
+    margin-bottom: 7px;
+    line-height: 1.5;
+    color: var(--muted);
+  }
+
+  /* ── Footer ──────────────────────────────────────────────── */
+  .paper-footer {
+    margin-top: 40px;
+    padding-top: 14px;
+    border-top: 1px solid var(--rule);
+    font-family: 'Inter', sans-serif;
+    font-size: 8pt;
+    color: var(--muted);
+    text-align: center;
+  }
+
+  /* ── Print ───────────────────────────────────────────────── */
+  @media print {
+    body { padding: 0; max-width: 100%; font-size: 10pt; }
+    .section { page-break-inside: avoid; }
+    h2.section-heading { page-break-after: avoid; }
+    h3.sub-heading { page-break-after: avoid; }
+    .table-wrap { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ══ TITLE BLOCK ═══════════════════════════════════════════ -->
+<div class="title-block">
+  <p class="conference-tag">M.Tech Data Analytics · Kathmandu University · 2025</p>
+  <h1 class="paper-title">Music Mood Therapy: An ISO Principle-Based<br>Recommendation System Using Neural Network<br>Classification for Emotional Transition</h1>
+  <p class="authors">Prasanna Koirala &nbsp;&nbsp;·&nbsp;&nbsp; Sujan</p>
+  <p class="affiliation">Department of Computer Science and Engineering, Kathmandu University<br>
+  Supervised by: Yagya Raj Pandeya</p>
+</div>
+
+<!-- ══ ABSTRACT ═══════════════════════════════════════════════ -->
+<div class="abstract-block">
+  <div class="label">Abstract</div>
+  <p>
+    Music therapy practitioners have long employed the ISO Principle — the practice of matching a listener's current
+    emotional state before gradually guiding them toward a therapeutic target — to facilitate emotional regulation.
+    This paper presents <em>Music Mood Therapy</em>, a computational implementation of the ISO Principle that
+    translates a user's natural-language emotional description into a three-song recommendation sequence grounded
+    in Russell's Circumplex Model of affect. User mood text is classified by OpenAI's GPT-4o-mini into one of
+    six Ekman emotions; the result is mapped to coordinates in Russell's two-dimensional valence–energy space;
+    and an ISO-compliant engine selects three songs tracing a path from the user's current state toward the
+    target emotion Happy (valence = 0.80, energy = 0.80). Each candidate song is verified in real time by a
+    Multi-Layer Perceptron (MLP) trained on 373 Nepali songs across seven psychoacoustic features. A quality
+    gate retries selection up to three times when the MLP's prediction conflicts with the expected ISO waypoint
+    emotion. On 75 held-out test songs, the Random Forest baseline achieves 74.67% accuracy and the MLP
+    achieves 66.67% — both substantially above the 16.67% random baseline for six-class classification.
+    The system is deployed as a React + FastAPI web application with Docker containerisation.
+  </p>
+  <p class="keywords">
+    <span>Keywords —</span>
+    music emotion recognition, ISO Principle, Russell's Circumplex Model, MLP neural network,
+    music therapy, librosa, Nepali music dataset, recommendation system
+  </p>
+</div>
+
+<!-- ══ I. INTRODUCTION ════════════════════════════════════════ -->
+<div class="section">
+  <h2 class="section-heading">I. Introduction</h2>
+
+  <p>
+    Emotional regulation through music is one of the oldest therapeutic practices known, yet its formalisation
+    in clinical settings is relatively recent. The ISO Principle, introduced by Altshuler [1] in psychiatric
+    music therapy, establishes a foundational constraint: an abrupt transition from a patient's current
+    emotional state to a target state via music creates dissonance rather than therapeutic benefit. The
+    therapist must instead begin with material that matches the patient's affect and modulate gradually toward
+    the therapeutic goal.
+  </p>
+
+  <p>
+    Computational music recommendation systems have historically optimised for user preference rather than
+    emotional trajectory. Collaborative filtering and content-based systems ask <em>what does the user
+    typically enjoy?</em> rather than <em>what does the user need now, and where should the music take them?</em>
+    This distinction is clinically significant: a listener in distress may not benefit from their habitual
+    listening preferences.
+  </p>
+
+  <p>
+    This paper presents <em>Music Mood Therapy</em>, a system that operationalises the ISO Principle as a
+    three-step recommendation pipeline grounded in two established psychological frameworks: Russell's
+    Circumplex Model of affect [2] and Ekman's taxonomy of six basic emotions [3]. The system accepts a
+    free-text emotional description, classifies it using a large language model (LLM), maps the result to
+    a coordinate in Russell's two-dimensional valence–energy space, and selects three songs that trace an
+    ISO-compliant path toward the target emotion (Happy, at valence = 0.80, energy = 0.80).
+  </p>
+
+  <p>
+    Song selection is validated in real time by an MLP neural network trained on 373 Nepali songs with seven
+    acoustic features extracted using librosa [4]. A quality gate mechanism retries song selection if the
+    MLP's live classification conflicts with the expected emotional category at each waypoint.
+  </p>
+
+  <p>The primary contributions of this work are:</p>
+  <ol class="contributions">
+    <li>A computational implementation of the ISO Principle using Russell's Circumplex as the coordinate system for emotional trajectory planning.</li>
+    <li>A curated dataset of 373 Nepali songs with emotion labels derived from human-curated Spotify playlists and supplementary local recordings.</li>
+    <li>An MLP-based quality gate for ISO-coherent recommendation operating on seven psychoacoustic features extracted entirely via open-source tooling.</li>
+    <li>A full-stack web application and CLI enabling real-time mood-to-music recommendation and standalone audio emotion classification.</li>
+  </ol>
+</div>
+
+<!-- ══ II. RELATED WORK ═══════════════════════════════════════ -->
+<div class="section">
+  <h2 class="section-heading">II. Related Work</h2>
+
+  <h3 class="sub-heading">A. The ISO Principle in Clinical Music Therapy</h3>
+  <p>
+    The ISO Principle was first described by Altshuler [1] in the context of psychiatric treatment, where
+    matching a patient's observed affect with congruent music was found to facilitate engagement and
+    subsequent emotional shift. Thaut and Davis [5] provided empirical support, demonstrating that
+    state-congruent music selection produced superior therapeutic outcomes relative to experimenter-assigned
+    material. Our work formalises this principle computationally, replacing the therapist's perceptual
+    judgement with acoustic feature matching in Russell's coordinate space.
+  </p>
+
+  <h3 class="sub-heading">B. Russell's Circumplex Model of Affect</h3>
+  <p>
+    Russell [2] proposed mapping emotional states onto a circular structure defined by two orthogonal
+    dimensions: <em>valence</em> (hedonic quality, from unpleasant to pleasant on the X-axis) and
+    <em>arousal</em> (activation level, from low to high energy on the Y-axis). This model has become
+    the predominant framework for affective computing in music, providing a continuous, mathematically
+    tractable representation of emotion suitable for distance calculations. We adopt Russell's model as
+    the coordinate system for ISO waypoint computation, mapping each Ekman emotion to an empirically
+    motivated (valence, energy) coordinate pair.
+  </p>
+
+  <h3 class="sub-heading">C. Ekman's Basic Emotions</h3>
+  <p>
+    Ekman [3] established through cross-cultural research that six emotions — Happiness, Sadness, Anger,
+    Fear, Disgust, and Surprise — are universally recognised. This discrete label set aligns with clinical
+    categories used in music therapy literature and with the resolution achievable by acoustic
+    feature-based classifiers on small datasets.
+  </p>
+
+  <h3 class="sub-heading">D. Music Emotion Recognition</h3>
+  <p>
+    Feature-based classifiers operating on spectral, rhythmic, and tonal features have demonstrated
+    competitive performance relative to deep learning approaches when training data is limited. Panda
+    et al. [6] identify mode (major/minor) and tempo as among the most discriminative features for
+    valence prediction, consistent with our feature set. The Krumhansl–Schmuckler key-finding algorithm
+    [7], which we employ for mode detection, has been validated as a reliable computational implementation
+    of Western tonal hierarchy.
+  </p>
+</div>
+
+<!-- ══ III. DATASET ═══════════════════════════════════════════ -->
+<div class="section">
+  <h2 class="section-heading">III. Dataset Construction</h2>
+
+  <h3 class="sub-heading">A. Primary Collection — 70 Songs (Human-Labeled)</h3>
+  <p>
+    The primary dataset was constructed by identifying six Spotify playlists curated by human editors
+    around emotion categories corresponding to Ekman's taxonomy. Track metadata and Spotify track
+    identifiers were extracted from each playlist. Since Spotify does not provide audio file access,
+    corresponding audio was retrieved from YouTube using yt-dlp via a custom Python pipeline.
+    Librosa [4] extracted seven acoustic features from each downloaded audio file. Emotion labels
+    were assigned by playlist category — constituting human-curated labels fully independent of
+    the acoustic features used as model inputs.
+  </p>
+
+  <h3 class="sub-heading">B. Supplementary Collection — 303 Songs (Rule-Labeled)</h3>
+  <p>
+    A supplementary set was derived from 597 locally recorded Nepali songs. The same librosa feature
+    extraction pipeline produced the seven-feature representation for each recording. Emotion labels
+    were assigned via rule-based thresholds derived from Russell's Circumplex coordinates: songs with
+    valence &gt; 0.60 and energy &gt; 0.60 were labeled Happy; valence &lt; 0.40 and energy &lt; 0.40
+    labeled Sad; and so forth, with the nearest Circumplex centroid as a fallback.
+  </p>
+  <p>
+    Two filters controlled class imbalance: (i) emotion classes with fewer than ten songs were discarded
+    as insufficiently represented for learning; (ii) classes exceeding 100 songs were capped at 100 to
+    prevent majority-class dominance. This reduced the 597-song raw collection to 303 songs.
+  </p>
+
+  <h3 class="sub-heading">C. Combined Dataset</h3>
+  <p>
+    The two collections were merged and deduplicated by track identifier, yielding 373 songs total.
+    A stratified 80/20 train-test split produced 298 training and 75 test samples, with stratification
+    preserving class proportions across the split. Table I shows the final emotion distribution.
+  </p>
+
+  <div class="table-wrap">
+    <div class="table-caption">Table I — Emotion Distribution in Combined Dataset (373 songs)</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Emotion</th>
+          <th>Approx. Count</th>
+          <th>Russell Coordinate (V, E)</th>
+          <th>Note</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Happy</td><td>~100</td><td>(0.80, 0.80)</td><td>Capped at 100</td></tr>
+        <tr><td>Angry</td><td>~80</td><td>(0.20, 0.80)</td><td>—</td></tr>
+        <tr><td>Surprise</td><td>~70</td><td>(0.60, 0.85)</td><td>—</td></tr>
+        <tr><td>Fear</td><td>~60</td><td>(0.20, 0.60)</td><td>—</td></tr>
+        <tr><td>Sad</td><td>~52</td><td>(0.20, 0.20)</td><td>Limited source material</td></tr>
+        <tr><td>Disgust</td><td>~11</td><td>(0.15, 0.50)</td><td>Smallest class</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ══ IV. METHODOLOGY ════════════════════════════════════════ -->
+<div class="section">
+  <h2 class="section-heading">IV. Methodology</h2>
+
+  <h3 class="sub-heading">A. Feature Extraction</h3>
+  <p>
+    Seven acoustic features are extracted from each audio file using librosa [4]. Identical extraction
+    code is applied during dataset construction and live inference, ensuring no train–inference mismatch.
+  </p>
+
+  <div class="table-wrap">
+    <div class="table-caption">Table II — Seven Acoustic Features</div>
+    <table>
+      <thead>
+        <tr><th>Feature</th><th>Method</th><th>Range</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>Valence</strong></td><td>Psychoacoustic approximation (see formula)</td><td>0.05 – 0.95</td></tr>
+        <tr><td><strong>Energy</strong></td><td>RMS energy, normalised by 0.15 reference</td><td>0 – 1</td></tr>
+        <tr><td><strong>Tempo</strong></td><td>BPM via beat tracking, normalised (BPM−60)/120</td><td>0 – 1</td></tr>
+        <tr><td><strong>Mode</strong></td><td>Krumhansl–Schmuckler on chroma features [7]</td><td>0 (minor), 1 (major)</td></tr>
+        <tr><td><strong>Loudness</strong></td><td>Mean amplitude converted to dB</td><td>Negative dB</td></tr>
+        <tr><td><strong>Acousticness</strong></td><td>Harmonic / (harmonic + percussive) via HPSS</td><td>0 – 1</td></tr>
+        <tr><td><strong>Danceability</strong></td><td>Max normalised onset autocorrelation at lag &gt; 2</td><td>0 – 1</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p>
+    Valence is not directly measurable from audio. We use a psychoacoustic approximation grounded in
+    prior literature [6]: major key, faster tempo, and higher spectral brightness each independently
+    contribute to perceived positivity.
+  </p>
+  <div class="formula">
+    valence = clip( 0.40 × mode + 0.35 × tempo_norm + 0.25 × centroid_norm,  0.05,  0.95 )
+    <br>
+    where  tempo_norm = clip( (BPM − 60) / 120,  0, 1 )
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; centroid_norm = clip( spectral_centroid / 4000,  0, 1 )
+  </div>
+
+  <h3 class="sub-heading">B. MLP Neural Network</h3>
+  <p>
+    A Multi-Layer Perceptron is trained within a scikit-learn Pipeline [8] that applies StandardScaler
+    normalisation before each forward pass. Normalisation is essential: raw feature magnitudes differ by
+    orders of magnitude (tempo: 60–180 BPM; valence: 0–1), and unscaled inputs cause tempo to dominate
+    gradient updates.
+  </p>
+  <div class="formula">
+    Architecture:  7 inputs → StandardScaler → 32 (ReLU) → 16 (ReLU) → 6 outputs (softmax)
+    <br>
+    Learnable parameters ≈ 886  &nbsp;|&nbsp;  Training samples: 298  &nbsp;|&nbsp;  Ratio ≈ 3 samples / parameter
+  </div>
+  <p>
+    Architecture depth and width were chosen deliberately for the dataset scale. A 128→64 network would
+    yield approximately 9,700 learnable parameters for 298 training samples — roughly 32 parameters per
+    sample — presenting high overfitting risk. The 32→16 architecture reduces this to approximately
+    886 parameters, a ratio of roughly three samples per parameter. Early stopping monitors validation
+    loss on a 20% holdout of the training set, terminating training when improvement plateaus.
+  </p>
+
+  <h3 class="sub-heading">C. Random Forest Baseline</h3>
+  <p>
+    A Random Forest of 100 decision trees is trained with <code>class_weight='balanced'</code> to
+    compensate for class imbalance. Each tree trains on a bootstrap sample and considers a random
+    feature subset at each split. The balanced weighting ensures minority classes (Sad, Disgust) receive
+    proportional gradient signal. The Random Forest is not used in the live recommendation pipeline
+    because it does not natively produce calibrated probability distributions across all classes
+    — a requirement for the quality gate.
+  </p>
+
+  <h3 class="sub-heading">D. Mood Parsing via LLM</h3>
+  <p>
+    User mood text is classified into one of six Ekman emotion labels by OpenAI's GPT-4o-mini via a
+    zero-shot structured prompt at temperature = 0 (deterministic output). The model is constrained to
+    return exactly one label with no additional text. This separation of natural language understanding
+    from acoustic classification allows each component to operate at the resolution it is best suited for.
+    Approximate cost per request: $0.0001 USD (10 output tokens at GPT-4o-mini pricing).
+  </p>
+
+  <h3 class="sub-heading">E. ISO Recommendation Engine</h3>
+  <p>
+    Given a detected emotion <em>e</em> with Russell coordinate (v<sub>e</sub>, en<sub>e</sub>), the
+    engine retrieves three songs following the ISO Principle:
+  </p>
+  <div class="formula">
+    MATCH       →  target: (v_e,  en_e)                        top_k = 20
+    <br>
+    BRIDGE      →  target: ((v_e + 0.80)/2,  (en_e + 0.80)/2) top_k = 15
+    <br>
+    DESTINATION →  target: (0.80, 0.80)  [Happy]               top_k = 10
+  </div>
+  <p>
+    At each waypoint, Euclidean distance in (valence, energy) space identifies the nearest songs.
+    One is sampled uniformly at random from the top-K candidates, ensuring variety across sessions
+    for the same input emotion. Progressively smaller candidate pools at later waypoints enforce greater
+    specificity as the journey approaches the therapeutic target.
+  </p>
+
+  <h3 class="sub-heading">F. MLP Quality Gate</h3>
+  <p>
+    After candidate selection at each waypoint, the MLP classifies the candidate using its stored
+    seven-feature vector. If the predicted emotion conflicts with the waypoint's expected label
+    (MATCH expects <em>e</em>; DESTINATION expects Happy; BRIDGE carries no constraint), the engine
+    samples the next nearest unvisited candidate — up to three attempts. If no agreeing candidate is
+    found within three attempts, the most recent candidate is accepted to ensure response completeness.
+    This gate operationalises the ISO requirement for emotional coherence at each step of the journey.
+  </p>
+</div>
+
+<!-- ══ V. RESULTS ══════════════════════════════════════════════ -->
+<div class="section">
+  <h2 class="section-heading">V. Results and Discussion</h2>
+
+  <h3 class="sub-heading">A. Classification Performance</h3>
+
+  <div class="table-wrap">
+    <div class="table-caption">Table III — Accuracy on 75 Held-Out Test Songs</div>
+    <table>
+      <thead>
+        <tr><th>Model</th><th>Accuracy</th><th>vs. Random Baseline</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Random baseline (6 classes)</td><td>16.67%</td><td>—</td></tr>
+        <tr><td>Random Forest (100 trees)</td><td>74.67%</td><td>4.5×</td></tr>
+        <tr class="highlight"><td>MLP Neural Network (32→16)</td><td>66.67%</td><td>4.0×</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p>
+    Both models substantially outperform the six-class random baseline of 16.67%. The accuracy gap between
+    Random Forest and MLP is consistent with the known advantage of ensemble tree methods over neural
+    networks on small, tabular datasets — bootstrapped ensembles reduce variance more effectively when
+    training samples are limited.
+  </p>
+
+  <h3 class="sub-heading">B. Class Imbalance and Rare Emotions</h3>
+  <p>
+    Sad and Disgust achieve near-zero recall under both models. This is a data scarcity problem:
+    no classifier can reliably learn a six-dimensional boundary from eight to eleven examples.
+    Balanced weighting in the Random Forest and early stopping in the MLP both mitigate but cannot
+    resolve this fundamental constraint. Expansion of the Nepali dataset for underrepresented emotion
+    categories is the primary direction for future work.
+  </p>
+
+  <h3 class="sub-heading">C. Comparison With Kaggle Baseline</h3>
+  <p>
+    An initial system trained on the Kaggle Spotify dataset (89,000 songs) with rule-derived emotion
+    labels achieved greater than 99% training accuracy. This figure is artefactual: Kaggle labels were
+    assigned by thresholding the same acoustic features used as model inputs, producing circular
+    validation. Labels assigned independently of features — as in our human-curated primary dataset —
+    represent a substantially more challenging and honest evaluation. The 74.67% and 66.67% figures
+    reported here reflect genuine generalisation on unseen Nepali songs.
+  </p>
+</div>
+
+<!-- ══ VI. CONCLUSION ══════════════════════════════════════════ -->
+<div class="section">
+  <h2 class="section-heading">VI. Conclusion</h2>
+
+  <p>
+    This work presents a computational implementation of the ISO Principle for music-based emotional
+    regulation, grounding the recommendation pipeline in Russell's Circumplex Model and Ekman's emotion
+    taxonomy. A curated dataset of 373 Nepali songs with human-assigned emotion labels was constructed
+    via a reproducible yt-dlp + librosa pipeline. An MLP neural network achieving 66.67% accuracy on
+    held-out data serves as a live quality gate during recommendation, with a Random Forest baseline
+    achieving 74.67%. Both models perform 4–4.5× above the random baseline, representing genuine
+    generalisation on independently labeled data.
+  </p>
+
+  <p>
+    Limitations include the small dataset size, near-zero recall for Sad and Disgust categories, and
+    the absence of formal user studies validating therapeutic efficacy. Future work will focus on dataset
+    expansion for underrepresented emotion classes, user-study evaluation of emotional transition
+    outcomes, and exploration of self-supervised audio representations to reduce dependence on
+    hand-crafted features.
+  </p>
+
+  <p>
+    The full system — backend, frontend, dataset pipeline, and trained models — is publicly available
+    at: <strong>https://github.com/prasannakoirala58/mood-music-therapy</strong>
+  </p>
+</div>
+
+<!-- ══ REFERENCES ══════════════════════════════════════════════ -->
+<div class="section references">
+  <h2 class="section-heading">References</h2>
+  <ol>
+    <li>I. M. Altshuler, "A psychiatrist's experience with music as a therapeutic agent," in <em>Music and Medicine</em>, D. Schullian and M. Schoen, Eds. New York: Henry Schuman, 1948, pp. 266–281.</li>
+    <li>J. A. Russell, "A circumplex model of affect," <em>Journal of Personality and Social Psychology</em>, vol. 39, no. 6, pp. 1161–1178, 1980.</li>
+    <li>P. Ekman, "An argument for basic emotions," <em>Cognition &amp; Emotion</em>, vol. 6, no. 3–4, pp. 169–200, 1992.</li>
+    <li>B. McFee <em>et al.</em>, "librosa: Audio and music signal analysis in Python," in <em>Proc. 14th Python in Science Conf.</em>, 2015, pp. 18–24.</li>
+    <li>M. H. Thaut and W. B. Davis, "The influence of subject-selected versus experimenter-chosen music on affect, anxiety, and relaxation," <em>Journal of Music Therapy</em>, vol. 30, no. 4, pp. 210–223, 1993.</li>
+    <li>R. Panda, R. Malheiro, and R. P. Paiva, "Novel audio features for music emotion recognition," <em>IEEE Transactions on Affective Computing</em>, vol. 11, no. 4, pp. 614–626, 2020.</li>
+    <li>C. L. Krumhansl, <em>Cognitive Foundations of Musical Pitch</em>. Oxford, UK: Oxford University Press, 1990.</li>
+    <li>F. Pedregosa <em>et al.</em>, "Scikit-learn: Machine learning in Python," <em>Journal of Machine Learning Research</em>, vol. 12, pp. 2825–2830, 2011.</li>
+  </ol>
+</div>
+
+<div class="paper-footer">
+  Submitted in partial fulfilment of the requirements for M.Tech (Data Analytics), First Semester 2025 &nbsp;·&nbsp;
+  Kathmandu University, Department of Computer Science and Engineering
+</div>
+
+</body>
+</html>

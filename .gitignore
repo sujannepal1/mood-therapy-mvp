@@ -1,0 +1,67 @@
+# ── Secrets ──────────────────────────────────────────────
+.env
+
+# ── Data (too large / generated — folders tracked, contents ignored) ──
+backend/data/raw/*
+backend/data/processed/*
+backend/models/*
+!backend/data/raw/.gitkeep
+!backend/data/processed/.gitkeep
+!backend/models/.gitkeep
+.env
+.env.*
+# ── Nepali production files — committed for submission ────────────────
+!backend/data/processed/nepali_dataset.csv
+!backend/data/processed/nepali_dataset_500.csv
+!backend/models/emotion_classifier_mlp_nepali.pkl
+!backend/models/emotion_classifier_rf_nepali.pkl
+
+# ── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── uv ───────────────────────────────────────────────────
+# uv.lock IS committed — it pins exact versions for reproducibility
+# .venv is NOT committed
+
+# ── macOS ─────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── IDEs ──────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Claude Code (local tool — not part of the project) ────
+.claude/
+
+# ── Spotify OAuth token cache ──────────────────────────────
+backend/.spotify_cache
+
+# ── Jupyter ───────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Node / React ─────────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# ── Librosa demo audio files ──────────────────────────────
+backend/demo/*.mp3
+backend/demo/*.wav
+backend/demo/*.flac
