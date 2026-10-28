@@ -14,7 +14,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from recommendation.mood_parser import get_mock_emotion
+from recommendation.mood_parser import parse_mood
 from recommendation.recommender import recommend
 
 DATASET_PATH = Path("data/processed/nepali_dataset.csv")
@@ -103,7 +103,7 @@ def run() -> None:
             continue
 
         print("\n  Detecting your mood...", end=" ", flush=True)
-        emotion = get_mock_emotion(user_input)
+        emotion = parse_mood(user_input)
         songs = recommend(emotion, df, mlp_model=mlp)
         print("done\n")
 
@@ -118,7 +118,7 @@ def run() -> None:
 
         print("\n  Let's try another set.\n")
         print("  Detecting your mood...", end=" ", flush=True)
-        emotion2 = get_mock_emotion(follow_up)
+        emotion2 = parse_mood(follow_up)
         songs2 = recommend(emotion2, df, mlp_model=mlp)
         print("done\n")
         print_songs(emotion2, songs2)

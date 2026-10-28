@@ -88,7 +88,7 @@ numpy==2.4.6
     #   scipy
     #   soundfile
     #   soxr
-# openai==2.43.0
+openai==2.43.0
     # via music-mood-backend
 packaging==26.2
     # via

@@ -24,7 +24,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from loguru import logger
 from pydantic import BaseModel
 
-from recommendation.mood_parser import get_mock_emotion
+from recommendation.mood_parser import parse_mood
 from recommendation.recommender import recommend
 from classification.classifier import classify_audio
 
@@ -60,6 +60,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "http://localhost:3000",
+        "http://127.0.0.1:5173",
         "http://localhost",
     ],
     allow_methods=["GET", "POST"],
@@ -121,7 +122,7 @@ class ClassifyResponse(BaseModel):
 
 
 @app.post("/api/recommend", response_model=RecommendResponse)
-async def recommend_songs(req: MoodRequest, request: Request) -> RecommendResponse:
+def recommend_songs(req: MoodRequest, request: Request) -> RecommendResponse:
     if not req.text.strip():
         raise HTTPException(status_code=422, detail="Mood text cannot be empty.")
 
@@ -132,10 +133,7 @@ async def recommend_songs(req: MoodRequest, request: Request) -> RecommendRespon
 
     t0 = time.perf_counter()
 
-    # emotion = parse_mood(req.text)
-    emotion = get_mock_emotion(
-        req.text
-    )  # Use mock function for testing without OpenAI API
+    emotion = parse_mood(req.text)
     songs = recommend(emotion, app.state.df, mlp_model=app.state.mlp)
 
     elapsed_ms = (time.perf_counter() - t0) * 1000
